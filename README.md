@@ -10,12 +10,6 @@ As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy div
 - **LinkedIn:** [JJ](https://www.linkedin.com/in/jjsalley)
 - **GitHub:** [computerscienceiscool](https://github.com/computerscienceiscool)
 
-
-### 🔭 I’m currently working on:
-- Providing academic support as a Business and Data Analytics Tutor.
-- Business and Data Consultant at Bellevue Business Solutions.
-- Volunteering in board-level positions for non-profits related to technology, education, and more.
-
 ### 🌱 I’m currently learning:
 - Improving Git and Linux skills while learning GoLang.
 - Six Sigma
