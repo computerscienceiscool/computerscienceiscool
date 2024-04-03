@@ -1,17 +1,15 @@
 
 # Hi there, I'm JJ  👋
 
-## Data Analyst at the Intersection of Tech & Non-Profit
-
-I'm deeply passionate about information security, data analytics, and computer science. My journey has taken me through various roles where I've harnessed data to drive decision-making, enhance user experiences, and contribute to impactful projects. I’m particularly interested in the power of data analytics and machine learning to uncover insights and inform better decisions.
+### 👀 About Me:
+As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy diving into various repositories, contributing by editing documentation, and enhancing the overall quality of projects. My interests span across information security, data analytics, and computer science. I'm always eager to lend a hand on very short projects that might benefit from an extra set of eyes. If you need someone to review your project, feel free to contact me!
+ 
 
 ### 📫 How to reach me:
 - **Email:** jjsalley@gmail.com
 - **LinkedIn:** [JJ](https://www.linkedin.com/in/jjsalley)
 - **GitHub:** [computerscienceiscool](https://github.com/computerscienceiscool)
 
-### 👀 About Me:
-As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy diving into various repositories, contributing by editing documentation, and enhancing the overall quality of projects. My interests span across information security, data analytics, and computer science. I'm always eager to lend a hand on very short projects that might benefit from an extra set of eyes. If you need someone to review your project, feel free to contact me!
 
 ### 🔭 I’m currently working on:
 - Providing academic support as a Business and Data Analytics Tutor.
