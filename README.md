@@ -19,13 +19,12 @@ As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy div
 - Volunteering in board-level positions for non-profits related to technology, education, and more.
 
 ### 🌱 I’m currently learning:
-- Advanced data mining techniques.
-- Enhancing my machine learning models for better predictive analysis.
-- Exploring new technologies in information security.
+- Improving Git and Linux skills while learning GoLang.
+- Six Sigma
+- Advanced data mining techniques and enhancing my machine learning models for better predictive analysis.
 
 ### 💬 Ask me about:
 - Data Analytics using Python.
-- Machine Learning.
 - Data Visualization with Power BI and Tableau.
 - Contributing to GitHub repositories, particularly in documentation.
 
