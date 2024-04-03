@@ -32,9 +32,9 @@ If you have a short-term project related to data analytics, machine learning, or
 ### 📄 Certifications:
 - OSINT in the 6ix.
 - Microsoft Certified: Azure AI Fundamentals.
-- CompTIA A+ ce Certification.
+- 10+ FEMA certifications
 - IT Project Management.
-- CompTIA Security+ ce Certification.
+- CompTIA A+ and Security+ ce Certification.
 
 ### 💼 Experience Highlights:
 - **Microsoft:** Software Design Engineer in Test, honing skills in software testing, automation, and tool building.
@@ -51,6 +51,12 @@ Projects focused on the application of data science to improve nonprofit operati
 
 ### 🤝 Let's Connect:
 If you're interested in collaborating or if my skills match a need you have, please don't hesitate to get in touch!
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=computerscienceiscool&show_icons=true&rank_icon=github&theme=transparent" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=computerscienceiscool&theme=transparent" />
+</p>
+
 
 <div align="center">
   <a href="https://github.com/computerscienceiscool">Visit My GitHub Profile</a>
