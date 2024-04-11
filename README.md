@@ -38,7 +38,7 @@ If you have a short-term project related to data analytics, machine learning, or
 - **MS in Computer Science,** University of Texas at Tyler.
 
 ### 👯 I’m looking to collaborate on:
-Projects focused on the application of data science to improve nonprofit operations, educational tools, and community engagement through technology.
+Projects focused on the application of data science to improve nonprofit operations, educational tools, and community engagement through technology.  Thanks for thinking of me.
 
 ### 🤝 Let's Connect:
 If you're interested in collaborating or if my skills match a need you have, please don't hesitate to get in touch!
