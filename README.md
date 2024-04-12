@@ -26,6 +26,7 @@ If you have a short-term project related to data analytics, machine learning, or
 - 10+ FEMA certifications
 - IT Project Management.
 - CompTIA A+ and Security+ ce Certification.
+- Azure
 
 ### 💼 Experience Highlights:
 - **Microsoft:** Software Design Engineer in Test, honing skills in software testing, automation, and tool building.
