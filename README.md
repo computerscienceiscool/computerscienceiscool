@@ -17,7 +17,7 @@ As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy div
 - Data Visualization with Power BI and Tableau.
 - Contributing to GitHub repositories, particularly in documentation.
 
-### 🤔 I’m looking for help with:
+### 🤔 What I am looking for:
 If you have a short-term project related to data analytics, machine learning, or information security, and need an extra set of eyes, feel free to reach out. I enjoy collaborating and contributing to meaningful projects.
 
 ### 📄 Certifications:
