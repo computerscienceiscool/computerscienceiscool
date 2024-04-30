@@ -24,11 +24,11 @@ If you have a short-term project related to data analytics, machine learning, or
 - Microsoft Certified: Azure AI Fundamentals
 - 10+ FEMA certifications
 - IT Project Management
-- CompTIA A+ and Security+ ce Certification
-- Google Digital Marketing and E-Commerce
+- CompTIA A+ and Security+ ce Certification               
+- Google Digital Marketing and E-Commerce               
 
 ### 💼 Experience Highlights:
-- **Microsoft:** Software Design Engineer in Test, honing skills in software testing, automation, and tool building.
+- **Microsoft:** Software Design Engineer in Test, honing skills in software testing, automation, and tool building.              
 - **Freelance Tutoring:** Supporting students in data science and analytics, with a focus on SQL, Python, and statistical methods.
 - **Bellevue Business Solutions:** Managing data projects, ensuring client satisfaction, and providing notary services.
 
