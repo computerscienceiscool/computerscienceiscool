@@ -1,7 +1,7 @@
 # 👀 About Me:
 As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy diving into various repositories, contributing by editing documentation, and enhancing the overall quality of projects. My interests span across information security, data analytics, and computer science. I'm always eager to lend a hand on very short projects that might benefit from an extra set of eyes. If you need someone to review your project, feel free to contact me!                                                                                                       
  
-
+               
 ### 📫 How to reach me:                           
 - **Email:** jjsalley@gmail.com                               
 - **LinkedIn:** [JJ](https://www.linkedin.com/in/jjsalley)                                        
