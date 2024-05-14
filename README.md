@@ -20,7 +20,7 @@ As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy div
 If you have a short-term project related to data analytics, machine learning, or information security, and need an extra set of eyes, feel free to reach out. I enjoy collaborating and contributing to meaningful projects.
 
 ### 📄 Certifications:
-- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure AI Fundamentals 
 - 10+ FEMA certifications
 - IT Project Management
 - CompTIA A+ and Security+ ce Certification               
