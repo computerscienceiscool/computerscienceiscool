@@ -7,17 +7,20 @@ As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy div
 - **GitHub:** [computerscienceiscool](https://github.com/computerscienceiscool)                                
 
 ### 🌱 I’m currently learning:
-- Improving Git and Linux skills while learning GoLang.
+- Improving Git and Linux while programming in GoLang.
+- Privacy and AI regulations
+- Privacy and AI governance frameworks
 - Six Sigma
 - Advanced data mining techniques and enhancing my machine learning models for better predictive analysis.
 
 ### 💬 Ask me about:
 - Data Analytics using Python.
-- Data Visualization with Power BI and Tableau.
+- Privacy regulations.
+- Data Visualization.
 - Contributing to GitHub repositories, particularly in documentation. 
 
 ### 🤔 What I am looking for:
-If you have a short-term project related to data analytics, machine learning, or information security, and need an extra set of eyes, feel free to reach out. I enjoy collaborating and contributing to meaningful projects.
+If you have a short-term project related to data analytics, machine learning, or privacy, and need an extra set of eyes, feel free to reach out. I enjoy collaborating and contributing to meaningful projects.
 
 ### 📄 Certifications:
 - Microsoft Certified: Azure AI Fundamentals 
