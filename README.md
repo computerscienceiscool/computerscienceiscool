@@ -10,7 +10,6 @@ As a GitHub enthusiast under the username **computerscienceiscool**, I enjoy div
 - Improving Git and Linux while programming in GoLang.
 - Privacy and AI regulations
 - Privacy and AI governance frameworks
-- Six Sigma
 - Advanced data mining techniques and enhancing my machine learning models for better predictive analysis.
 
 ### 💬 Ask me about:
