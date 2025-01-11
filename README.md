@@ -46,10 +46,8 @@ Projects focused on the application of data science to improve nonprofit operati
 If you're interested in collaborating or if my skills match a need you have, please don't hesitate to get in touch!
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=computerscienceiscool&show_icons=true&rank_icon=github&theme=transparent" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=computerscienceiscool&show_icons=true&theme=transparent" />
-</p>
- 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=computerscienceiscool&show_icons=true&rank_icon=github&theme=transparent" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=computerscienceiscool&theme=transparent" /></p>
 
 <div align="center">
   <a href="https://github.com/computerscienceiscool">Visit My GitHub Profile</a>
