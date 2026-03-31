@@ -1,55 +1,72 @@
-# 👀 About Me: 
-I enjoy diving into various repositories, contributing by editing documentation, and enhancing the overall quality of projects. My interests span across AI, privacy, data analytics, and computer science. I'm always eager to lend a hand on very short projects that might benefit from an extra set of eyes. If you need someone to review your project, feel free to contact me!                                                                                                       
-               
-### 📫 How to reach me:                           
-- **Email:** jjsalley@gmail.com                               
-- **LinkedIn:** [JJ](https://www.linkedin.com/in/jjsalley)                                        
-- **GitHub:** [computerscienceiscool](https://github.com/computerscienceiscool)                                
+# JJ Salley
+**AI Systems Developer · Machine Learning Engineer · Decentralized Systems**
 
-### 🌱 I’m currently learning:
-- Improving Git and Linux while programming in GoLang.
-- Privacy and AI regulations
-- Advanced data mining techniques and enhancing my machine learning models for better predictive analysis.
+Software engineer and AI/ML consultant with 10+ years of industry experience. Former Software Design Engineer in Test at Microsoft (Visual Studio, MSDN, MSN, Business Intelligence). Currently building AI-driven solutions, LLM integrations, agentic infrastructure, and security tooling for clients across industry and academia.
 
-### 💬 Ask me about:
-- Data Analytics using Python.
-- Privacy regulations.
-- Data Visualization.
-- Contributing to GitHub repositories, particularly in documentation. 
+I design systems with correctness and failure modes in mind — whether that's sandboxed LLM execution, security scanning pipelines, or evaluation frameworks for graduate-level AI curriculum.
 
-### 🤔 What I am looking for:
-If you have a short-term project related to data analytics, machine learning, or privacy, and need an extra set of eyes, feel free to reach out. I enjoy collaborating and contributing to meaningful projects.
+---
 
-### 📄 Certifications:
-- Microsoft Certified: Azure AI Fundamentals 
-- 10+ FEMA certifications
-- IT Project Management
-- CompTIA A+ and Security+ ce Certification               
-- Google Digital Marketing and E-Commerce
-- Certified Professional Coach 
+### 🔧 What I Build
 
-### 💼 Experience Highlights:
-- **Microsoft:** Software Design Engineer in Test, honing skills in software testing, automation, and tool building.              
-- **Freelance Tutoring:** Supporting students in data science and analytics, with a focus on SQL, Python, and statistical methods.
-- **Bellevue Business Solutions:** Managing data projects, ensuring client satisfaction, and providing notary services.
+- **Agentic Infrastructure** — LLM runtimes with sandboxed execution, command whitelisting, audit logging, and semantic search via embeddings
+- **MCP Servers** — Early adopter of Model Context Protocol; built practical tool-use servers in Go before widespread industry adoption
+- **Security Tooling** — Portfolio-wide vulnerability scanning, SBOM generation, license compliance automation
+- **AI/ML Systems** — Vector database interfaces, LLM-powered document processing, data pipelines, and ML model evaluation
+- **Collaborative Systems** — Real-time editors using CRDTs (Yjs, Automerge), presence/awareness packages
+- **Developer Tooling** — CLI tools, Chrome extensions, Vim plugins, cross-platform mobile apps
 
-### 🎓 Education:
-- **Masters in Data Analytics,** Western Governors University.
-- **MBA, Information Technology Management,** Western Governors University.
-- **MS in Computer Science,** University of Texas at Tyler.
+### 🏗️ Featured Projects
 
-### 👯 I’m looking to collaborate on:
-Projects focused on the application of data science to improve nonprofit operations, educational tools, and community engagement through technology.  Thanks for thinking of me.
+| Project | Description |
+|---------|-------------|
+| **llm-runtime** | Secure LLM File Access Tool — models autonomously explore repositories via Docker-sandboxed execution with command whitelisting, path validation, and audit logging |
+| **mcp-mood-quotes** | MCP server in Go — early demonstration of the Model Context Protocol tool-use standard |
+| **vectordb-interface** | Go interface layer for vector database operations, enabling semantic search and embedding-based retrieval |
+| **vulnsweep** | Portfolio-wide security scanner built on Trivy — automates SBOM generation, vulnerability checks, and license compliance across repositories |
+| **gdoctools** | Copies entire Google Drive folders locally, preserving images, text, formatting, and comments with full change tracking |
+| **mob-consensus** | Original work on decentralized consensus formation for peer-to-peer systems |
+| **collab-editor suite** | Multiple real-time collaborative editor implementations using Yjs, Automerge, TipTap, and Node.js |
 
-### 🤝 Let's Connect:
-If you're interested in collaborating or if my skills match a need you have, please don't hesitate to get in touch!
+### 💼 Experience
 
+- **Microsoft** — Software Design Engineer in Test (7.5 years). Designed test plans, defined pass/fail criteria, wrote test automation, reviewed specifications, managed testers. Product groups: Visual Studio, MSDN, MSN, Release, Business Intelligence Applications.
+- **Bellevue Business Solutions** — AI/ML consulting, LLM integrations, MCP server development, security automation, and data-driven solutions for clients across industry and academia.
+- **Subject Matter Expert** — Curriculum congruency evaluation for graduate-level ML, AI, and Architecture courses at a national university. Rubric design, gap analysis, and quality evaluation for technical content.
+- **Data Analytics Tutor** — Graduate and undergraduate instruction in ML fundamentals, model evaluation, Python (Pandas, NumPy, Scikit-learn), SQL, and statistical methods.
+
+### 🎓 Education
+
+- **MS, Data Analytics** — Western Governors University
+- **MBA, Information Technology Management** — Western Governors University
+- **MS, Computer Science** — University of Texas at Tyler
+- **BA, Interdisciplinary Studies & BA, Sociology** — University of Missouri-Columbia
+
+### 📄 Certifications
+
+Microsoft Certified: Azure AI Fundamentals · CompTIA A+ · CompTIA Security+ ce · IT Project Management · Google Digital Marketing & E-Commerce · Certified Professional Coach · 10+ FEMA certifications
+
+### 💬 Ask Me About
+
+- Agentic workflows and LLM tool-use patterns (MCP)
+- AI/ML evaluation and benchmark design
+- Security automation and DevSecOps
+- Data science with Python (Pandas, Scikit-learn, NumPy, Matplotlib)
+- Test design, rubric development, and quality evaluation
+- Real-time collaboration systems (CRDTs, Yjs, Automerge)
+
+### 📫 Contact
+
+- **Email:** jjsalley@gmail.com
+- **LinkedIn:** [JJ Salley](https://www.linkedin.com/in/jjsalley)
+- **GitHub:** [computerscienceiscool](https://github.com/computerscienceiscool)
+
+---
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=computerscienceiscool&show_icons=true&rank_icon=github&theme=transparent" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=computerscienceiscool" />
 </p>
-
 <div align="center">
   <a href="https://github.com/computerscienceiscool">Visit My GitHub Profile</a>
 </div>
