@@ -25,7 +25,6 @@ I design systems with correctness and failure modes in mind — whether that's s
 | **vectordb-interface** | Go interface layer for vector database operations, enabling semantic search and embedding-based retrieval |
 | **vulnsweep** | Portfolio-wide security scanner built on Trivy — automates SBOM generation, vulnerability checks, and license compliance across repositories |
 | **gdoctools** | Copies entire Google Drive folders locally, preserving images, text, formatting, and comments with full change tracking |
-| **mob-consensus** | Original work on decentralized consensus formation for peer-to-peer systems |
 | **collab-editor suite** | Multiple real-time collaborative editor implementations using Yjs, Automerge, TipTap, and Node.js |
 
 ### 💼 Experience
