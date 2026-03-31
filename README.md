@@ -24,7 +24,7 @@ I design systems with correctness and failure modes in mind — whether that's s
 | **mcp-mood-quotes** | MCP server in Go — early demonstration of the Model Context Protocol tool-use standard |
 | **vectordb-interface** | Go interface layer for vector database operations, enabling semantic search and embedding-based retrieval |
 | **vulnsweep** | Portfolio-wide security scanner built on Trivy — automates SBOM generation, vulnerability checks, and license compliance across repositories |
-| **gdoctools** | Copies entire Google Drive folders locally, preserving images, text, formatting, and comments with full change tracking |
+| **SiteVigil** | Uptime monitoring tool — continuously checks health of managed websites and services, alerting on failures |
 | **collab-editor suite** | Multiple real-time collaborative editor implementations using Yjs, Automerge, TipTap, and Node.js |
 
 ### 💼 Experience
@@ -45,20 +45,19 @@ I design systems with correctness and failure modes in mind — whether that's s
 
 Microsoft Certified: Azure AI Fundamentals · CompTIA A+ · CompTIA Security+ ce · IT Project Management · Google Digital Marketing & E-Commerce · Certified Professional Coach · 10+ FEMA certifications
 
-### 💬 Ask Me About
+### 💬 Areas of Expertise
 
 - Agentic workflows and LLM tool-use patterns (MCP)
-- AI/ML evaluation and benchmark design
+- AI/ML evaluation, benchmark design, and rubric development
 - Security automation and DevSecOps
 - Data science with Python (Pandas, Scikit-learn, NumPy, Matplotlib)
-- Test design, rubric development, and quality evaluation
+- Test design, quality evaluation, and failure mode analysis
 - Real-time collaboration systems (CRDTs, Yjs, Automerge)
 
 ### 📫 Contact
 
 - **Email:** jjsalley@gmail.com
 - **LinkedIn:** [JJ Salley](https://www.linkedin.com/in/jjsalley)
-- **GitHub:** [computerscienceiscool](https://github.com/computerscienceiscool)
 
 ---
 
@@ -66,6 +65,3 @@ Microsoft Certified: Azure AI Fundamentals · CompTIA A+ · CompTIA Security+ ce
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=computerscienceiscool&show_icons=true&rank_icon=github&theme=transparent" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=computerscienceiscool" />
 </p>
-<div align="center">
-  <a href="https://github.com/computerscienceiscool">Visit My GitHub Profile</a>
-</div>
